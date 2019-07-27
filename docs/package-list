@@ -1,0 +1,9 @@
+org.firstinspires.ftc.teamcode.lib.hardware.base
+org.firstinspires.ftc.teamcode.lib.movement
+org.firstinspires.ftc.teamcode.lib.recording
+org.firstinspires.ftc.teamcode.lib.util
+org.firstinspires.ftc.teamcode.opmodes.auto.main
+org.firstinspires.ftc.teamcode.opmodes.auto.roadrunner
+org.firstinspires.ftc.teamcode.opmodes.auto.test
+org.firstinspires.ftc.teamcode.opmodes.misc
+org.firstinspires.ftc.teamcode.opmodes.teleop
